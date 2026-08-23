@@ -38,7 +38,7 @@ streamlit run app.py
 7. Week 7 — Dimensionality reduction
 8. Final — Structured intelligence + requirement match + Streamlit deployment
 
-## PDF Upload Mode (New)
+## PDF Upload Mode 
 
 TwinIQ now supports a PDF-first workflow:
 

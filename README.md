@@ -1,4 +1,4 @@
-[ Application Prototype Link ](https://nexorax-oufvxvwc82cwkyfiabn4cj.streamlit.app/)
+[ Application Prototype (click here) ](https://nexorax-oufvxvwc82cwkyfiabn4cj.streamlit.app/)
 
 # TwinIQ — Complete Electric Motors Project
 

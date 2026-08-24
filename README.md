@@ -1,3 +1,4 @@
+[ Application Link ](https://nexorax-oufvxvwc82cwkyfiabn4cj.streamlit.app/)
 
 # TwinIQ — Complete Electric Motors Project
 
